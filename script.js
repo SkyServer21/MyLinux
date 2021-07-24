@@ -35,3 +35,14 @@ const navSlide = () => {
 	}
 
 window.onload = () => navSlide();
+
+
+<script>
+
+var api= "dc0e30b1d3ae9e7f002522b3d41837a6dcd0cf82";
+
+var ct= "1";
+
+</script>
+
+<script src="//aylink.co/t89s3.js"></script>
