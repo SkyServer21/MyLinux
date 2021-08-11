@@ -8,12 +8,7 @@ $(window).on('scroll', function(){
 		$('header').removeClass('nav-show');
 	}
 	   
-})
-<a target="_blank"
-href="https://faucetcrypto.com/ref/228864"><img
-src="https://faucetcrypto.com/banners/300x250.gif"
-width="300" height="250"></a>
-
+}
 
 //hamburger
 const navSlide = () => {
@@ -47,12 +42,4 @@ width="300" height="250"></a>
 
 window.onload = () => navSlide();
 	
-	<a target="_blank" href="https://faucetcrypto.com/ref/228864">
-		<img src="https://faucetcrypto.com/banners/728x90.gif" width="728" height="90">
-			</a>
-	
-	
-	<a target="_blank"
-href="https://faucetcrypto.com/ref/228864"><img
-src="https://faucetcrypto.com/banners/300x250.gif"
-width="300" height="250"></a>
+
