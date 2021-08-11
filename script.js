@@ -12,6 +12,7 @@ $(window).on('scroll', function(){
 
 //hamburger
 const navSlide = () => {
+	<a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/468x60.gif" width="468" height="60"></a>
 	 const hamburger = document.querySelector(".hamburger");
 	 const navbar = document.querySelector(".nav-bar");
 	 const navLinks = document.querySelectorAll(".nav-bar li");
