@@ -14,12 +14,7 @@ href="https://faucetcrypto.com/ref/228864"><img
 src="https://faucetcrypto.com/banners/300x250.gif"
 width="300" height="250"></a>
 
-<a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/468x60.gif" width="468" height="60"></a>
 
-<a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/300x250.gif" width="300" height="250"></a>
-
-
-<a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/160x600.gif" width="160" height="600"></a>
 //hamburger
 const navSlide = () => {
 	 const hamburger = document.querySelector(".hamburger");
@@ -39,10 +34,11 @@ const navSlide = () => {
 		   }
 		});
 	  //hamburger animation
-	     <a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/160x600.gif" width="160" height="600"></a>
-	     
-	     
-	     <a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/160x600.gif" width="160" height="600"></a>
+	     <a target="_blank"
+href="https://faucetcrypto.com/ref/228864"><img
+src="https://faucetcrypto.com/banners/300x250.gif"
+width="300" height="250"></a>
+
 	     
 	     
 	 hamburger.classList.toggle("toggle");             
@@ -51,6 +47,12 @@ const navSlide = () => {
 
 window.onload = () => navSlide();
 	
+	<a target="_blank" href="https://faucetcrypto.com/ref/228864">
+		<img src="https://faucetcrypto.com/banners/728x90.gif" width="728" height="90">
+			</a>
 	
-	<a target="_blank" href="https://faucetcrypto.com/ref/228864"><img src="https://faucetcrypto.com/banners/160x600.gif" width="160" height="600"></a>
-
+	
+	<a target="_blank"
+href="https://faucetcrypto.com/ref/228864"><img
+src="https://faucetcrypto.com/banners/300x250.gif"
+width="300" height="250"></a>
