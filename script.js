@@ -9,7 +9,10 @@ $(window).on('scroll', function(){
 	}
 	   
 })
-
+<a target="_blank"
+href="https://faucetcrypto.com/ref/228864"><img
+src="https://faucetcrypto.com/banners/300x250.gif"
+width="300" height="250"></a>
 //hamburger
 const navSlide = () => {
 	 const hamburger = document.querySelector(".hamburger");
