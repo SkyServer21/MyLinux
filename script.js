@@ -29,16 +29,10 @@ const navSlide = () => {
 		   }
 		});
 	  //hamburger animation
-	 hamburger.classList.toggle("toggle");
+	 hamburger.classList.toggle("toggle");                   <a target="_blank"href="https://faucetcrypto.com/ref/228864"> <imgsrc="https://faucetcrypto.com/banners/300x250.gif" width="300" height="250"></a>
     }
 	 
 	}
 
 window.onload = () => navSlide();
-
-
-<a target="_blank"
-href="https://faucetcrypto.com/ref/228864"><img
-src="https://faucetcrypto.com/banners/300x250.gif"
-width="300" height="250"></a>
 
