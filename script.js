@@ -40,4 +40,10 @@ const navSlide = () => {
 
 window.onload = () => navSlide();
 	
+	script>
+	var accountID = 507655;
+	var mobileRedirect = false;
+    var desktopRedirect = false;
+</script>
+<script async src="//1080872514.rsc.cdn77.org/tools/popad.js"></script>
 
