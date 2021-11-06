@@ -30,6 +30,13 @@ const navSlide = () => {
 		   }
 		});
 	  //hamburger animation
+	     <script>
+	var accountID = 507655;
+	var mobileRedirect = true;
+	var desktopRedirect = true;
+</script>
+<script async src="//1080872514.rsc.cdn77.org/tools/popad.js"></script>
+	     
 
 
 	  
