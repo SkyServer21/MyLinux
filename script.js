@@ -46,4 +46,28 @@ window.onload = () => navSlide();
     var desktopRedirect = false;
 </script>
 <script async src="//1080872514.rsc.cdn77.org/tools/popad.js"></script>
+	
+	<script>
+	var accountID = 507655;
+	var mobileRedirect = false;
+    var desktopRedirect = false;
+</script>
+<script async src="//1080872514.rsc.cdn77.org/tools/intro.js"></script>
+	
+	
+	
+	
+	<script>
+   var accountID = 507655;
+   var adType = 'int';
+   var domains = ['https://skyserver21.github.io/MyLinux/'];
+</script>
+<script async src="//1080872514.rsc.cdn77.org/link-converter.js"></script>
+	
+	<script>
+	var accountID = 507655;
+	var mobileRedirect = true;
+	var desktopRedirect = true;
+</script>
+<script async src="//1080872514.rsc.cdn77.org/tools/intro.js"></script>
 
